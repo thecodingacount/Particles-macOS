@@ -86,6 +86,6 @@ This project is open-source and available under the MIT License.
 
 ## 📣 Connect
 
-If you liked the project, drop a ⭐ on GitHub or share your thoughts on [Instagram](https://www.instagram.com/thecodingaccount/). You can also follow me on [X](https://x.com/thecodingacount).Let’s redefine how we listen, one gesture at a time. 
+If you liked the project, drop a ⭐ on GitHub or share your thoughts on [Instagram](https://www.instagram.com/thecodingaccount/). You can also follow me on [X](https://x.com/thecodingacount). Let’s redefine how we listen, one gesture at a time. 
 
 ☕️ Support the madness (and my coffee bill): [https://razorpay.me/@akshatsriv_07](https://razorpay.me/@akshatsriv_07)
